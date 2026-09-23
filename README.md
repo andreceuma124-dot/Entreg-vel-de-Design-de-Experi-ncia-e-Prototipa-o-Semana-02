@@ -29,11 +29,11 @@ Jornada
 
 Experiência
 
-![experiencia].(./imagem4.png).
+![experiencia](./imagem4.png).
 
 Viabilidade
 
-![viabilidade].(./imagem5.png).
+![viabilidade](./imagem5.png).
 
 5 - Figma
 https://www.figma.com/design/1R8sZuqaa1c9xzA2ixhYLl/Sem-t%C3%ADtulo?node-id=0-1&t=ZZ0nkzbDPJa8zCip-1
