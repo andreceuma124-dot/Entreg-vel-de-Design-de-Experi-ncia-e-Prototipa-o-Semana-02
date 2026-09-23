@@ -12,7 +12,15 @@ O usuário principal são **consumidores de São Luís que desejam encontrar op�
 
 4 -Telas desenvolvidas
 ### Visão geral do projeto
-<img width="1808" height="516" alt="Captura de tela 2026-09-23 161342" src="https://github.com/user-attachments/assets/99fc2bd0-b8d2-4b8a-afed-17c1f4d3e1fc" />
+seu-repositorio/
+│
+├── README.md
+│
+└── imagens/
+    ├── tela-1.png
+    ├── tela-2.png
+    ├── tela-3.png
+    └── tela-4.png
 
 
 ### Jornada e telas mobile
