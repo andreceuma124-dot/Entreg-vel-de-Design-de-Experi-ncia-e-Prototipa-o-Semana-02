@@ -20,10 +20,12 @@ Inicial
 
 Fundamentos
 
-
+![fundamentos](./imagem2.png)
 
 
 Jornada
+
+![jornada](./imagem3.png).
 
 Experiência
 
