@@ -11,26 +11,17 @@ A solução proposta é uma plataforma que reúne diferentes opções de compra 
 O usuário principal são **consumidores de São Luís que desejam encontrar opções de compra de forma mais rápida, prática e segura**.
 
 4 -Telas desenvolvidas
-### Visão geral do projeto
-seu-repositorio/
-│
-├── README.md
-│
-└── imagens/
-    ├── tela-1.png
-    ├── tela-2.png
-    ├── tela-3.png
-    └── tela-4.png
+Inicial
+<img width="1808" height="516" alt="Captura de tela 2026-09-23 161342" src="https://github.com/user-attachments/assets/8493a5fa-0137-4920-b79a-64540b7be846" />
 
+Fundamentos
 
-### Jornada e telas mobile
-![Telas mobile](./imagens/tela-2.png)
+Jornada
 
-### Landing Page
-![Landing Page](./imagens/tela-3.png)
+Experiência
 
-### Protótipo
-![Protótipo](./imagens/tela-4.png)
+Viabilidade
+
 
 5 - Figma
 https://www.figma.com/design/1R8sZuqaa1c9xzA2ixhYLl/Sem-t%C3%ADtulo?node-id=0-1&t=ZZ0nkzbDPJa8zCip-1
