@@ -12,11 +12,7 @@ O usuário principal são **consumidores de São Luís que desejam encontrar op�
 
 4 -Telas desenvolvidas 
 Inicial
-## 4 - Telas desenvolvidas
-
-Abaixo estão os prints das telas desenvolvidas durante as aulas:
-
-### Visão geral do projeto
+## Visão geral do projeto
 ![Visão geral](./imagens/tela-1.png)
 
 ### Jornada e telas mobile
