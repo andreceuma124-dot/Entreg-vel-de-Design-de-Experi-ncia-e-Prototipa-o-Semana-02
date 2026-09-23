@@ -12,6 +12,8 @@ O usuário principal são **consumidores de São Luís que desejam encontrar op�
 
 4 -Telas desenvolvidas
 Inicial
+
+
 <img width="1808" height="516" alt="Captura de tela 2026-09-23 161342" src="https://github.com/user-attachments/assets/8493a5fa-0137-4920-b79a-64540b7be846" />
 
 Fundamentos
