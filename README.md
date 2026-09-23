@@ -12,9 +12,21 @@ O usuário principal são **consumidores de São Luís que desejam encontrar op�
 
 4 -Telas desenvolvidas 
 Inicial
+## 4 - Telas desenvolvidas
 
+Abaixo estão os prints das telas desenvolvidas durante as aulas:
 
-<img  src="https://github.com/user-attachments/assets/16a5c992-805d-4d71-815b-8d38b9c33295" />
+### Visão geral do projeto
+![Visão geral](./imagens/tela-1.png)
+
+### Jornada e telas mobile
+![Telas mobile](./imagens/tela-2.png)
+
+### Landing Page
+![Landing Page](./imagens/tela-3.png)
+
+### Protótipo
+![Protótipo](./imagens/tela-4.png)
 
 
 Fundamentos
