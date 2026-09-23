@@ -20,6 +20,9 @@ Inicial
 
 Fundamentos
 
+
+
+
 Jornada
 
 Experiência
