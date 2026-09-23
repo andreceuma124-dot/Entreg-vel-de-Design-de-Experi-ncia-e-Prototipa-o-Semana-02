@@ -1,6 +1,7 @@
 # Busca Inteligente SLZ
 
 1 - Sobre o projeto
+
 O **Busca Inteligente SLZ** é uma plataforma que utiliza Inteligência Artificial para ajudar consumidores de São Luís a comparar preços, fretes, avaliações e confiabilidade de produtos e lojas.
 
 2 - Problema
